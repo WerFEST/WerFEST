@@ -15,6 +15,7 @@ Who am I:
 
 
 ## Certificates:
+- [Unreal Authorized Instructor - 2025](https://credential.unrealengine.com/a93eaf00-a4c6-4c79-ac57-095f4b361b2d#acc.3Jw0O7hn)
 - [Unreal Engine — полное руководство по разработке на С++](https://www.udemy.com/certificate/UC-ba87fadf-eb20-49be-8603-9f18ff5e0e66/)
 - [EF SET English Certificate 50/100 (B1 Intermediate)](https://cert.efset.org/xrY4CW)
 
