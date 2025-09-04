@@ -3,6 +3,7 @@
 Who am I:
 - Unreal Engine Developer with over 5 years of experience.
 - Unreal Engine course teacher at [TeachMeSkills](https://teachmeskills.by/teachers) school.
+- Unreal Engine course Expert at [XYZ Network](https://www.school-xyz.com/).
 - The creator of a team of enthusiasts, which grew into a studio with two finished projects in [Steam](https://store.steampowered.com/developer/werfest).
 
 
@@ -12,6 +13,7 @@ Who am I:
 - [Cast Cats - Halloween DLC](https://store.steampowered.com/app/3162830?utm_source=github)
 - [Cast Cats - Xmas DLC](https://store.steampowered.com/app/3342790?utm_source=github)
 - [Cast Cats - Heroes and Villians DLC](https://store.steampowered.com/app/3457030?utm_source=github)
+- [Cast Cats - Resort & Paws DLC](https://store.steampowered.com/app/3457020?utm_source=github)
 
 
 ## Certificates:
