@@ -2,6 +2,7 @@
 
 Who am I:
 - Unreal Engine Developer with over 5 years of experience.
+- Unreal Engine Instructor at [OTUS](https://otus.ru/lessons/unreal-professional/).
 - Unreal Engine course teacher at [TeachMeSkills](https://teachmeskills.by/teachers) school.
 - Unreal Engine course Expert at [XYZ Network](https://www.school-xyz.com/).
 - The creator of a team of enthusiasts, which grew into a studio with two finished projects in [Steam](https://store.steampowered.com/developer/werfest).
